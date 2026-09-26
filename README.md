@@ -1,12 +1,10 @@
-# TUDO WEB - PESQUISA DE OPINIÃO
+# TUDO WEB 📈 Pesquisa de Opinião📉
 
----
+## 🎯 Objetivo do programa
 
-## 🎯 Objetivo do Script
-
-- *Utilizar a estrutura de repetição FOR e estruturas de decisão para verificar a opinião do entrevistado*.
-- Aplicar a **Estrutura de Repetição FOR** e a **Estrutura de Decisão**;
-- Conscientização ambiental aos moradores de imóveis urbanos.
+  🏹 *Utilizar a estrutura de repetição FOR e estruturas de decisão para verificar a opinião do entrevistado*.
+  🏹 Aplicar a **Estrutura de Repetição FOR** e a **Estrutura de Decisão**;
+  🏹 Conscientização ambiental aos moradores de imóveis urbanos.
 
 ---
 
