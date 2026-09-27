@@ -17,7 +17,7 @@ print("===================================")
 total_entrevistados = 50 # Solicita ao usuário que insira o número total de entrevistados para a pesquisa de opinião.
 qtd_excelente = 0 # Inicializa a variável qtd_excelente para contar a quantidade de respostas "EXCELENTE" na pesquisa de opinião.
 qtd_ruim = 0 # Inicializa a variável qtd_ruim para contar a quantidade de respostas "RUIM" na pesquisa de opinião.
-# **Processamento e saída de dados:**
+# **Processamento de dados:**
 for i in range(1, total_entrevistados + 1): 
      nome = input("\nPor favor, digite o seu nome: ") 
      idade = int(input("Qual a sua idade? "))

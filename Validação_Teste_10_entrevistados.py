@@ -11,16 +11,18 @@ else:  # Linux/Mac
 #Validação do Teste com 10 entrevistados
 # Pesquisa de Opinião da Tudo Web
 # Autor: Inês Martinelli
-print("\n             TUDO WEB") # Início do programa
-print("Pesquisa de Atendimento ao Cliente:")
+print("\n             TUDO WEB") # Início do programa com o nome da empresa.
+print("===================================")
+print("Pesquisa de Atendimento ao Cliente:") # Início do programa com o título da pesquisa.
 print("===================================")
 # Declaração das variávies
 total_entrevistados = 10
 qtd_excelente = 0
 qtd_ruim = 0
-# Processamento
+# Processamento de dados: 
 for i in range(1, 10 + 1):
-     nome = input("\nPor favor, digite o seu nome: ")
+     # Entrada de dados pelos entrevistados
+     nome = input("\nPor favor, digite o seu nome: ") 
      idade = int(input("Qual a sua idade? "))
      pesquisa = int(input("Qual a sua opinião sobre o nosso atendimento? Insira: 1 para EXCELENTE | 2 para BOM | 3 para RUIM: "))
      print("\nAtendimento:", pesquisa)
